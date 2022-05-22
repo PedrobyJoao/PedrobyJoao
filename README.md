@@ -1,6 +1,6 @@
 ### Hi there, I'm Joao Pedro 👋
 
-I'm a Universe enthusiastic and a Software Engineer.😬
+I'm an Universe enthusiastic and a Software Engineer.😬
 
 
 - ⚛️ Skills: C/C++, Java, Python, JavaScript, Flask framework, HTML, CSS, Bootstrap
