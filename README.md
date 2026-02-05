@@ -1,7 +1,7 @@
 ```hs
 let life = λx.death  
 
-life whateverYouDo
+eval (life whateverYouDo)
 
 --
 
