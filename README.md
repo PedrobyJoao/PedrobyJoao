@@ -1,2 +1,9 @@
-<img src="ai2.gif">
+```hs
+let life = λx.death  
 
+life whateverYouDo
+
+--
+
+death
+```
